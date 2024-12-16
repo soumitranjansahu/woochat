@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "115831598819",
+    "project_id": "woochat-itgqwy",
+    "storage_bucket": "woochat-itgqwy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115831598819:android:f44616c7943618d1c99fd6",
+        "android_client_info": {
+          "package_name": "com.mycompany.woochat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpUc7LvUhL0HRgUgTnzjAilBoMitv8emE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
